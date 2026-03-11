@@ -13,6 +13,16 @@ model:
 
 skills:
   - write-poem
+  - rhyming-verse
+  - sonnet-craft
+  - haiku-zen
+  - limerick-humor
+  - spoken-word
+  - love-poems
+  - nature-poetry
+  - epic-ballad
+  - acrostic-art
+  - rap-bars
 
 runtime:
   max_turns: 20
