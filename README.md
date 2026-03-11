@@ -5,7 +5,7 @@ A creative poet agent that writes beautiful, original poems on any topic in vari
 ## Run
 
 ```bash
-npx @open-gitagent/gitagent run -r https://github.com/<username>/poet-agent
+npx @open-gitagent/gitagent run -r https://github.com/jeremyyuAWS/poet-agent
 ```
 
 ## What It Can Do
