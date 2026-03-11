@@ -23,6 +23,11 @@ skills:
   - epic-ballad
   - acrostic-art
   - rap-bars
+  - villanelle-craft
+  - ode-celebration
+  - ghazal-longing
+  - poetry-critique
+  - poem-remix
 
 runtime:
   max_turns: 20

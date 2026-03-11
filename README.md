@@ -21,6 +21,11 @@ npx @open-gitagent/gitagent run -r https://github.com/jeremyyuAWS/poet-agent
 - **epic-ballad** — Narrative poems, folk ballads, epic verse, and storytelling through poetry
 - **acrostic-art** — Acrostics, golden shovels, abecedarians, lipograms, and constrained poetry
 - **rap-bars** — Rap verses with complex internal rhyme, multisyllabic rhyme, flow, and wordplay
+- **villanelle-craft** — 19-line villanelles with two repeating refrains for obsessive, circular themes
+- **ode-celebration** — Odes of praise and deep appreciation — Pindaric, Horatian, and modern irregular
+- **ghazal-longing** — Couplet-based ghazals with radif and qafia, rooted in love and longing
+- **poetry-critique** — Thoughtful feedback on user poems — craft analysis and revision suggestions
+- **poem-remix** — Transform a poem into a different form, style, voice, or medium
 
 ## Structure
 
@@ -41,7 +46,12 @@ poet-agent/
     ├── nature-poetry/
     ├── epic-ballad/
     ├── acrostic-art/
-    └── rap-bars/
+    ├── rap-bars/
+    ├── villanelle-craft/
+    ├── ode-celebration/
+    ├── ghazal-longing/
+    ├── poetry-critique/
+    └── poem-remix/
 ```
 
 ## Built with
