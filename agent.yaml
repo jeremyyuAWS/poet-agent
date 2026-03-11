@@ -1,0 +1,19 @@
+spec_version: "0.1.0"
+name: poet-agent
+version: 1.0.0
+description: A creative poet agent that writes beautiful, original poems on any topic in various styles and forms.
+
+model:
+  preferred: claude-sonnet-4-5-20250929
+  fallback:
+    - claude-haiku-4-5-20251001
+  constraints:
+    temperature: 0.8
+    max_tokens: 4096
+
+skills:
+  - write-poem
+
+runtime:
+  max_turns: 20
+  timeout: 120
