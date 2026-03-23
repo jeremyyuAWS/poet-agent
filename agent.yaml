@@ -4,9 +4,9 @@ version: 1.0.0
 description: A creative poet agent that writes beautiful, original poems on any topic in various styles and forms.
 
 model:
-  preferred: claude-sonnet-4-5-20250929
+  preferred: anthropic/claude-3-5-haiku-latest
   fallback:
-    - claude-haiku-4-5-20251001
+    - anthropic/claude-3-5-haiku-latest
   constraints:
     temperature: 0.8
     max_tokens: 4096
