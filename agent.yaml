@@ -3,11 +3,11 @@ name: poet-agent
 version: 1.0.0
 description: A creative poet agent that writes beautiful, original poems on any topic in various styles and forms.
 
-provider: anthropic
+provider: openai
 model:
-  preferred: anthropic/claude-3-5-haiku-latest
+  preferred: gpt-4o
   fallback:
-    - anthropic/claude-3-5-haiku-latest
+    - gpt-4o
   constraints:
     temperature: 0.8
     max_tokens: 4096
